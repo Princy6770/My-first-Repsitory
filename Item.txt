@@ -1,1 +1,6 @@
-I think that cows should be the colors bright orange and purple.
+1. git add
+2. git commit -m "added txt file"
+3. git push origin master
+You will have t log in with username and password from GitHub
+
+Ever confused at where your at, do: git status 
